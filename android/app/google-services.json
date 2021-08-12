@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329700636959",
+    "project_id": "flat-chat-64c9e",
+    "storage_bucket": "flat-chat-64c9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329700636959:android:57e5ff8ada2c82fee7582a",
+        "android_client_info": {
+          "package_name": "bat.flat_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329700636959-hich7rq28pmjabi17o1c37riimgm3q7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI_phZYm5ZLgWkvGpSCwEPl9DODl_DI9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329700636959-hich7rq28pmjabi17o1c37riimgm3q7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
